@@ -1,6 +1,6 @@
 # MayanEdmsInstallScript
 To run this file simply type : bash MayanInstallV2.sh in your command prompt
-## I have added Three fonctions to the old script :
+## I have added Three fonctions to the original script :
 ### The first one :
 The user can setup his own password before starting the install process
 ### The second one :
